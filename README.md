@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @epawuni
 - 👀 I’m interested in coding and web develoment 
 - 🌱 I’m currently learning as a student 
-- 💞️ I’m looking to collaborate on web development 
+- 💞️ I’m looking to collaborate on web development, Mobile app development and Data analytics. 
 - 📫 How to reach me on  email:epawuni.saah@gmail.com
 
 <!---
